@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jun
 - 👀 I’m interested in coding and software
-- 🌱 I’m currently learning computer science engineering at college
+- 🌱 I’m currently learning computer science at college
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : arjunvishanth@gmail.com
 
